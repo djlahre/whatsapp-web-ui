@@ -7,6 +7,10 @@
   padding: 4px 12px;
 }
 
+.material-icons {
+  cursor: pointer;
+}
+
 .header-left {
   border-right: 1px solid #cccccc;
 }
