@@ -1,0 +1,30 @@
+.header-left,
+.header-right {
+  grid-row: 1/2;
+  background-color: #f0f2f5;
+  display: flex;
+  align-items: center;
+  padding: 4px 12px;
+}
+
+.header-left {
+  border-right: 1px solid #cccccc;
+}
+
+.header-left div,
+.header-right div {
+  padding-right: 1.5rem;
+  color: rgb(112, 112, 112);
+}
+
+.wa-version {
+  margin-right: auto;
+  font-size: 0.7rem;
+  font-weight: 600;
+}
+
+.friend-name {
+  margin-right: auto;
+  font-size: 1rem;
+  font-weight: 600;
+}
